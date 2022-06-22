@@ -2,7 +2,9 @@
 
 
 export const Tableau = () => {
-    return <div>
-        
-    </div>
+  return <div
+    className='solitaire-tableau'
+  >
+      
+  </div>
 };
